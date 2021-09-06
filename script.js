@@ -80,7 +80,7 @@ var encender=()=>{
         
          document.querySelector("#iteracion").innerHTML=`<strong><p style="width:30px;height:30px;border-radius:5px;background:White;text-align:center;padding:5px;font-weight:bold;font-size:25px !important;color:blue !important">${cont}</p></strong>`
       }
-  }, 5000); 
+  }, 11000); 
 
 }
 
